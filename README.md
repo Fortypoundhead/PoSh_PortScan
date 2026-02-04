@@ -8,15 +8,15 @@ This is not meant to replace tools like nmap. It is meant to be the tool you act
 
 ## Features
 
-- ⚡ Fast concurrent scanning using runspace pools
-- 🧵 Configurable throttle limit (no runaway job storms)
-- ⏱ Per-port TCP timeout control
-- 📊 Object-based output (pipeline friendly)
-- 🌐 Optional reverse DNS resolution
-- 🔍 Optional service name guessing (SSH, HTTP, RDP, SMB, etc.)
-- 🕒 Optional per-port timing (milliseconds)
-- 🧾 Optional scan summary with total runtime
-- ✅ Works in Windows PowerShell 5.1 (no PS7 required)
+- Fast concurrent scanning using runspace pools
+- Configurable throttle limit (no runaway job storms)
+- Per-port TCP timeout control
+- Object-based output (pipeline friendly)
+- Optional reverse DNS resolution
+- Optional service name guessing (SSH, HTTP, RDP, SMB, etc.)
+- Optional per-port timing (milliseconds)
+- Optional scan summary with total runtime
+- Works in Windows PowerShell 5.1 (no PS7 required)
 
 ## Requirements
 
